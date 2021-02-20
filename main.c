@@ -11,6 +11,9 @@ by :Le Rouzic Emilie
 
 int main()
 {
+    int jeune;
+    jeune +1 ;
+    
     printf(BLEUCLAIR "Bievenue!\n" NORMAL);
     int choix = 0;
     int total = 0;
